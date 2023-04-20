@@ -1,1 +1,1 @@
-git init
+git init: Zum Erstellen eines neuen Repositorys benutzt du den Befehl git init. git init ist ein einmaliger Befehl während der Ersteinrichtung eines neuen Repositorys. Durch das Ausführen dieses Befehls wird ein neues .git-Unterverzeichnis in deinem aktuellen Arbeitsverzeichnis erstellt. Dabei wird auch ein neuer Haupt-Branch erstellt.
