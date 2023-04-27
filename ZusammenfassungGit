@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 git init SCHLADEK HOOLLUAS
+=======
+git init
+git commit -m "Neuer Commit Nummer 1"
+
+>>>>>>> fc3223ba31d8376fe391c0fa29bad15468549cbc
+
+
+TIMON ÄNDERUNG
